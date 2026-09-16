@@ -47,15 +47,13 @@
   <settings:IDPolicy type="Video" pattern="vdo" use="true"/>
   <settings:IDPolicy type="udc.com.udcComLoadmaskpgs" pattern="udccomloadmaskpgs" use="true"/>
   <settings:IDPolicy type="udc.com.udcComLoadmask" pattern="udccomloadmask" use="true"/>
-  <settings:IDPolicy type="udc.com.udcComPDept" pattern="udccompdept" use="true"/>
   <settings:IDPolicy type="udc.com.udcComFormTitle" pattern="udccomformtitle" use="true"/>
-  <settings:IDPolicy type="udc.com.udcComExcelUploadBtn" pattern="udccomexceluploadbtn" use="true"/>
   <settings:IDPolicy type="udc.com.udcComAppHeader" pattern="udccomappheader" use="true"/>
   <settings:IDPolicy type="udc.com.udcComMdiDiv" pattern="udccommdidiv" use="true"/>
   <settings:IDPolicy type="udc.com.udcComGridTitle" pattern="udccomgridtitle" use="true"/>
-  <settings:IDPolicy type="udc.com.udcComFileUploadBtn" pattern="udccomfileuploadbtn" use="true"/>
-  <settings:IDPolicy type="udc.com.udcComPartySearch" pattern="udccompartysearch" use="true"/>
   <settings:IDPolicy type="udc.com.udcComGridCudBtns" pattern="udccomgridcudbtns" use="true"/>
   <settings:IDPolicy type="udc.com.udcComPageindexer" pattern="udccompageindexer" use="true"/>
   <settings:IDPolicy type="udc.com.udcComDateRangePicker" pattern="udccomdaterangepicker" use="true"/>
+  <settings:IDPolicy type="udc.com.chart.chart_Pie" pattern="chart_pie" use="true"/>
+  <settings:IDPolicy type="udc.com.chart.chart_Candle" pattern="chart_candle" use="true"/>
 </xmi:XMI>
